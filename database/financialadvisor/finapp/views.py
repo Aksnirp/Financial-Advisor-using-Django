@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from django.http import JsonResponse
 
-from .utilities import signup_u
+from financialadvisor.finapp.utilities import signup_u
 
 import json
 
